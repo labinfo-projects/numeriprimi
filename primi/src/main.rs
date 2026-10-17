@@ -1,3 +1,4 @@
+/// Versione 1.0 Giorgio Ruffa (c)2026
 use std::env;
 use std::process;
 use std::process::Command;
